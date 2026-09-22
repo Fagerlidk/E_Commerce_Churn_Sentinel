@@ -1,8 +1,6 @@
 
 # 1. Teksten til den komplette README
-b = "```"  # Hjælpevariabel så koden ikke driller i chatten
-
-readme_tekst = f"""# 🛒 E-Commerce Churn Sentinel: Fra SQL Feature Engineering til Machine Learning
+f"""# 🛒 E-Commerce Churn Sentinel: Fra SQL Feature Engineering til Machine Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
