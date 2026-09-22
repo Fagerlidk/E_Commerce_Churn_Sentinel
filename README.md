@@ -1,6 +1,6 @@
 
 # 1. Teksten til den komplette README
-f"""# 🛒 E-Commerce Churn Sentinel: Fra SQL Feature Engineering til Machine Learning
+# 🛒 E-Commerce Churn Sentinel: Fra SQL Feature Engineering til Machine Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
